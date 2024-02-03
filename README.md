@@ -23,4 +23,5 @@ Reference here: https://github.com/andrewbrereton/obsidian-to-ical-plugin/issues
 
 ## Plus
 - [ ] (Maybe fix a problem of mine that file can not be rewrite)
-- [ ] Pull Request
+- [ ] Clean code
+- [ ] Pull Request for main project
